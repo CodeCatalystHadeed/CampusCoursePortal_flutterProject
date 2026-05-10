@@ -58,8 +58,6 @@ lib/
 
 ## Screenshots
 
-## Screenshots
-
 The following screenshots show the main screens of the Campus Course Portal application.
 
 ### Authentication Screens
@@ -71,10 +69,10 @@ The following screenshots show the main screens of the Campus Course Portal appl
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/a90bace9-84a3-4a2e-b9f5-15bedc267a39" width="300" alt="Login Screen">
+      <img src="screenshots/02_login_screen.png" width="300" alt="Login Screen">
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ca93122c-1ba7-4c60-b4f6-64ea02e17dc8" width="300" alt="Registration Screen">
+      <img src="screenshots/01_register_screen_updated.png" width="300" alt="Registration Screen">
     </td>
   </tr>
 </table>
@@ -88,10 +86,10 @@ The following screenshots show the main screens of the Campus Course Portal appl
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/95c89cf0-9d5e-4150-8a11-ad7ac88da717" width="300" alt="Dashboard Screen">
+      <img src="screenshots/03_dashboard_screen.png" width="300" alt="Dashboard Screen">
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/0c624db0-5130-47fc-99f4-6b02264ded93" width="300" alt="Course Detail Screen">
+      <img src="screenshots/04_detail_screen.png" width="300" alt="Course Detail Screen">
     </td>
   </tr>
 </table>
