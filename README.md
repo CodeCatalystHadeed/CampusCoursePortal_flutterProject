@@ -1,8 +1,11 @@
 # Campus Course Portal
 
+A Flutter Multi-Screen Authentication Application
+
 ## Student Information
-Name: Your Name  
-Student ID: Your Student ID
+Name: Muhammad Hadeed
+Class: BSSE-8B 
+Student ID: SE221003
 
 ## Project Title
 Flutter Multi-Screen Authentication Application
