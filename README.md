@@ -53,19 +53,20 @@ lib/
 ```
 
 ## Screenshots
-Replace these placeholder screenshots with real screenshots from your device/emulator before final submission if required.
 
-| Login | Register |
-|---|---|
-| ![Login](<img width="301" height="537" alt="LoginScreen" src="https://github.com/user-attachments/assets/a90bace9-84a3-4a2e-b9f5-15bedc267a39" />
-) | ![Register](<img width="241" height="541" alt="RegisterScreen" src="https://github.com/user-attachments/assets/ca93122c-1ba7-4c60-b4f6-64ea02e17dc8" />
-) |
+The application includes four main screens: Login, Registration, Dashboard, and Course Detail.
 
-| Dashboard | Detail |
+### Login and Registration Screens
+
+| Login Screen | Registration Screen |
 |---|---|
-| ![Dashboard](<img width="305" height="548" alt="DashboardScreen" src="https://github.com/user-attachments/assets/95c89cf0-9d5e-4150-8a11-ad7ac88da717" />
-) | ![Detail](<img width="211" height="459" alt="CourseDetailScreen" src="https://github.com/user-attachments/assets/0c624db0-5130-47fc-99f4-6b02264ded93" />
-) |
+| <img src="https://github.com/user-attachments/assets/a90bace9-84a3-4a2e-b9f5-15bedc267a39" width="300" alt="Login Screen"> | <img src="https://github.com/user-attachments/assets/ca93122c-1ba7-4c60-b4f6-64ea02e17dc8" width="300" alt="Registration Screen"> |
+
+### Dashboard and Course Detail Screens
+
+| Dashboard Screen | Course Detail Screen |
+|---|---|
+| <img src="https://github.com/user-attachments/assets/95c89cf0-9d5e-4150-8a11-ad7ac88da717" width="300" alt="Dashboard Screen"> | <img src="https://github.com/user-attachments/assets/0c624db0-5130-47fc-99f4-6b02264ded93" width="300" alt="Course Detail Screen"> |
 
 ## How to Run
 ```bash
