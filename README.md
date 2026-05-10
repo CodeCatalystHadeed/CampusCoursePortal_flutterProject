@@ -57,11 +57,15 @@ Replace these placeholder screenshots with real screenshots from your device/emu
 
 | Login | Register |
 |---|---|
-| ![Login](screenshots/login.png) | ![Register](screenshots/register.png) |
+| ![Login](<img width="301" height="537" alt="LoginScreen" src="https://github.com/user-attachments/assets/a90bace9-84a3-4a2e-b9f5-15bedc267a39" />
+) | ![Register](<img width="241" height="541" alt="RegisterScreen" src="https://github.com/user-attachments/assets/ca93122c-1ba7-4c60-b4f6-64ea02e17dc8" />
+) |
 
 | Dashboard | Detail |
 |---|---|
-| ![Dashboard](screenshots/dashboard.png) | ![Detail](screenshots/detail.png) |
+| ![Dashboard](<img width="305" height="548" alt="DashboardScreen" src="https://github.com/user-attachments/assets/95c89cf0-9d5e-4150-8a11-ad7ac88da717" />
+) | ![Detail](<img width="211" height="459" alt="CourseDetailScreen" src="https://github.com/user-attachments/assets/0c624db0-5130-47fc-99f4-6b02264ded93" />
+) |
 
 ## How to Run
 ```bash
