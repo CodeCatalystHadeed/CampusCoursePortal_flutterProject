@@ -3,9 +3,10 @@
 A Flutter Multi-Screen Authentication Application
 
 ## Student Information
-Name: Muhammad Hadeed
-Class: BSSE-8B 
-Student ID: SE221003
+
+- Name: Muhammad Hadeed
+- Class: BSSE-8B
+- Student ID: SE221003
 
 ## Project Title
 Flutter Multi-Screen Authentication Application
