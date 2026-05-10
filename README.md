@@ -58,19 +58,43 @@ lib/
 
 ## Screenshots
 
-The application includes four main screens: Login, Registration, Dashboard, and Course Detail.
+## Screenshots
 
-### Login and Registration Screens
+The following screenshots show the main screens of the Campus Course Portal application.
 
-| Login Screen | Registration Screen |
-|---|---|
-| <img src="https://github.com/user-attachments/assets/a90bace9-84a3-4a2e-b9f5-15bedc267a39" width="300" alt="Login Screen"> | <img src="https://github.com/user-attachments/assets/ca93122c-1ba7-4c60-b4f6-64ea02e17dc8" width="300" alt="Registration Screen"> |
+### Authentication Screens
 
-### Dashboard and Course Detail Screens
+<table>
+  <tr>
+    <td align="center"><b>Login Screen</b></td>
+    <td align="center"><b>Registration Screen</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a90bace9-84a3-4a2e-b9f5-15bedc267a39" width="300" alt="Login Screen">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ca93122c-1ba7-4c60-b4f6-64ea02e17dc8" width="300" alt="Registration Screen">
+    </td>
+  </tr>
+</table>
 
-| Dashboard Screen | Course Detail Screen |
-|---|---|
-| <img src="https://github.com/user-attachments/assets/95c89cf0-9d5e-4150-8a11-ad7ac88da717" width="300" alt="Dashboard Screen"> | <img src="https://github.com/user-attachments/assets/0c624db0-5130-47fc-99f4-6b02264ded93" width="300" alt="Course Detail Screen"> |
+### Application Screens
+
+<table>
+  <tr>
+    <td align="center"><b>Dashboard Screen</b></td>
+    <td align="center"><b>Course Detail Screen</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/95c89cf0-9d5e-4150-8a11-ad7ac88da717" width="300" alt="Dashboard Screen">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0c624db0-5130-47fc-99f4-6b02264ded93" width="300" alt="Course Detail Screen">
+    </td>
+  </tr>
+</table>
 
 ## How to Run
 ```bash
